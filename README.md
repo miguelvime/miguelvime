@@ -4,8 +4,8 @@ Me encuentro en la intersección entre las **ciencias de la salud** y la **bioin
 
 ## 🚀 Áreas de Interés y Enfoque Técnico
 
-- **Estandarización de Datos:** Aplicación de ontologías médicas y códigos estandarizados (KEGG, CIE, CDISC, CIF).
-- - **Interoperabilidad en salud:** Análisis de datos genómicos, variantes estructurales y flujos de trabajo reproducibles.
+- **Estandarización de Datos:** Aplicación de ontologías médicas y códigos estandarizados, tanto a nivel clínico como de ensayos clínicos (CDISC, CIF, CIE, SNOMED).
+- **Interoperabilidad en salud:** Interesado en FHIR, openEHR, espacio europeo de datos en salud.
 - **Automatización & MLOps:** Construcción de pipelines de datos eficientes en Bash, Python y herramientas de orquestación como n8n.
 
 ## 🛠️ Stack Tecnológico
