@@ -21,6 +21,6 @@ Me encuentro en la intersección entre las **ciencias de la salud** y la **bioin
 
 📫 **Cómo contactar conmigo:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/miguel-angel-vicente-mesonero](https://www.linkedin.com/in/miguelvime/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelvime/))
 
 miguelvicentemeso@gmail.com
