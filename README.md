@@ -1,6 +1,6 @@
 # ¡Hola! Soy Miguel 👋
 
-Me encuentro en la intersección entre las **ciencias de la salud** y la **bioinformática / ingeniería de datos clínicos**. Mi enfoque actual se centra en la optimización de flujos de trabajo computacionales, la estandarización de datos biomédicos y la automatización de procesos mediante herramientas de orquestación y modelos de lenguaje (LLMs).
+Me encuentro en la intersección entre las **ciencias de la salud** y la **bioinformática**. Mi enfoque actual se centra en la optimización de flujos de trabajo computacionales, la estandarización de datos biomédicos y la automatización de procesos mediante herramientas de orquestación y modelos de lenguaje (LLMs). 
 
 ## 🚀 Áreas de Interés y Enfoque Técnico
 
@@ -9,9 +9,8 @@ Me encuentro en la intersección entre las **ciencias de la salud** y la **bioin
 - **Automatización & MLOps:** Construcción de pipelines de datos eficientes en Bash, Python y herramientas de orquestación como n8n.
 
 ## 🛠️ Stack Tecnológico
-- **Lenguajes de Programación:** R, Python, SQL, Bash.
-- **Entornos y Control de Versiones:** Git, GitHub, Conda, WSL2 (Ubuntu).
-- **Análisis Estructural:** AutoDock Vina, preparación de ligandos y receptores en entornos virtuales de cribado.
+- **Lenguajes de Programación:** R, Python, SQL, Bash, n8n.
+- **Entornos y Control de Versiones:** Git, GitHub, Conda, Docker.
 
 ## 📁 Proyectos Destacados
 
