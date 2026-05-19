@@ -1,6 +1,6 @@
 # ¡Hola! Soy Miguel 👋
 
-Me encuentro en la intersección entre las **ciencias de la salud** y la **bioinformática**. Mi enfoque actual se centra en la optimización de flujos de trabajo computacionales, la estandarización de datos biomédicos y la automatización de procesos mediante herramientas de orquestación y modelos de lenguaje (LLMs). 
+Me encuentro en la intersección entre las **ciencias de la salud** y la **bioinformática**. Mi enfoque actual se centra en la estandarización de datos en clínica e investigación, la interoperabilidad en salud y la automatización de procesos mediante herramientas de orquestación y modelos de lenguaje (LLMs). 
 
 ## 🚀 Áreas de Interés y Enfoque Técnico
 
