@@ -16,6 +16,7 @@ Me encuentro en la intersección entre las **ciencias de la salud** y la **bioin
 
 ### [Codificación de texto libre clínico con estándar CIF](https://github.com/miguelvime/automatizacion-estandarizacion-variables-clinicas)
 
+### [Proyecto Pharmaverse con datos Simulados] (https://miguelvime.github.io/cdisc-adam-adtte-cox-analysis/)
 ---
 
 📫 **Cómo contactar conmigo:**
