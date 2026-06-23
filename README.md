@@ -1,25 +1,42 @@
-# ¡Hola! Soy Miguel 👋
+# Miguel Ángel Vicente Mesonero
+### Statistical Programmer & Clinical Data Analyst
 
-Me encuentro en la intersección entre las **ciencias de la salud** y la **bioinformática**. Mi enfoque actual se centra en la estandarización de datos en clínica e investigación, la interoperabilidad en salud y la automatización de procesos mediante herramientas de orquestación y modelos de lenguaje (LLMs). 
+Profesional de la salud con experiencia en el sector público (SERMAS) y formación avanzada en Bioinformática. Especializado en el dato clínico, desde la captura raw hasta la generación de outputs estadísticos (TLFs) bajo estándares regulatorios.
 
-## 🚀 Áreas de Interés y Enfoque Técnico
-
-- **Estandarización de Datos:** Aplicación de ontologías médicas y códigos estandarizados, tanto a nivel clínico como de ensayos clínicos (CDISC, CIF, CIE, SNOMED).
-- **Interoperabilidad en salud:** Interesado en FHIR, openEHR, espacio europeo de datos en salud.
-- **Automatización & MLOps:** Construcción de pipelines de datos eficientes en Bash, Python y herramientas de orquestación como n8n.
-
-## 🛠️ Stack Tecnológico
-- **Lenguajes de Programación:** R, Python, SQL, Bash, n8n.
-- **Entornos y Control de Versiones:** Git, GitHub, Conda, Docker.
-
-## 📁 Proyectos Destacados
-
-### [Codificación de texto libre clínico con estándar CIF](https://github.com/miguelvime/automatizacion-estandarizacion-variables-clinicas)
-
-### [Proyecto Pharmaverse con datos Simulados](https://miguelvime.github.io/cdisc-adam-adtte-cox-analysis/)
 ---
 
-📫 **Cómo contactar conmigo:**
+## 🛠️ Expertise Técnico & Estándares
+* **Estándares CDISC:** Dominio de **SDTM** y **ADaM**. 
+* **Programación Estadística:** Desarrollo de pipelines reproducibles en **R** (especialmente ecosistema `pharmaverse`: `admiral`, `xportr`, `pharmaRTF`) y **Python**.
+* **Orquestación & MLOps:** Automatización de flujos de trabajo clínicos mediante **n8n** y contenedorización con **Docker**.
+---
+
+## 📁 Proyectos Destacados (Pharma Focus)
+
+### 1. Clinical Data Pipeline: Pharmaverse Simulation
+*   **Enfoque:** Implementación de un flujo completo de datos clínicos siguiendo directrices de la industria farmacéutica.
+*   **Tecnologías:** R (`admiral`, `xportr`), validación CDISC, generación de metadatos programática.
+*   **Resultado:** 
+    [🔗 Acceder al informe técnico renderizado](https://miguelvime.github.io/tu-nombre-de-repo/)
+
+### 2. Clinical NLP & Classification
+*   **Enfoque:** Extracción y codificación automatizada de texto clínico a ontologías estándar (CIF/SNOMED-CT) utilizando LLMs.
+*   **Impacto:** Reducción de carga administrativa y mejora en la interoperabilidad de historias clínicas.
+
+### 3. Participación en Hackathon de IA Biomed 'Interoperabilidad de Pruebas Médicas'
+
+---
+
+## 🎓 Roadmap 2026-2027
+Actualmente expandiendo mis competencias en:
+* **Estadística Aplicada a las ciencias de la salud**
+* **Ensayos clínicos e industria farmacéutica:** 
+
+---
+
+## 📫 Contacto
+📧 **miguelvicentemeso@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/miguelvime/) | 💻 [GitHub](https://github.com/miguelvime)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelvime/)
 
