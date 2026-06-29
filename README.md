@@ -17,7 +17,7 @@ Profesional de la salud con experiencia en el sector público (SERMAS) y formaci
 *   **Enfoque:** Implementación de un flujo completo de datos clínicos siguiendo directrices de la industria farmacéutica.
 *   **Tecnologías:** R (`admiral`, `xportr`), validación CDISC, generación de metadatos programática.
 *   **Resultado:** 
-    [🔗 Acceder al informe técnico renderizado](https://miguelvime.github.io/tu-nombre-de-repo/)
+    [🔗 Acceder al informe técnico renderizado](https://miguelvime.github.io/cdisc-adam-adtte-cox-analysis/)
 
 ### 2. Clinical NLP & Classification
 *   **Enfoque:** Extracción y codificación automatizada de texto clínico a ontologías estándar (CIF/SNOMED-CT) utilizando LLMs.
