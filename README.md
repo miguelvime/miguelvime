@@ -29,14 +29,12 @@ Profesional de la salud con experiencia en el sector público (SERMAS) y formaci
 ## 🎓 Roadmap 2026-2027
 Actualmente expandiendo mis competencias en:
 * **Estadística Aplicada a las ciencias de la salud**
-* **Ensayos clínicos e industria farmacéutica:** 
+* **Ensayos clínicos e industria farmacéutica** 
 
 ---
 
 ## 📫 Contacto
 📧 **miguelvicentemeso@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/miguelvime/) | 💻 [GitHub](https://github.com/miguelvime)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelvime/)
 
 miguelvicentemeso@gmail.com
