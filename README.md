@@ -1,7 +1,7 @@
 # Miguel Ángel Vicente Mesonero
-### Statistical Programmer & Clinical Data Analyst
 
 Profesional de la salud con experiencia en el sector público (SERMAS) y formación avanzada en Bioinformática.
+
 ---
 
 ## 🛠️ Expertise Técnico & Estándares
