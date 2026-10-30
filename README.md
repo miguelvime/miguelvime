@@ -4,13 +4,13 @@ Profesional de la salud con experiencia en el sector público (SERMAS) y formaci
 
 ---
 
-## 🛠️ Expertise Técnico & Estándares
+##  Expertise Técnico & Estándares
 * **Estándares CDISC:** Dominio de **SDTM** y **ADaM**. 
 * **Programación Estadística:** Desarrollo de pipelines reproducibles en **R** (especialmente ecosistema `pharmaverse`: `admiral`, `xportr`, `pharmaRTF`) y **Python**.
 * **Orquestación & MLOps:** Automatización de flujos de trabajo clínicos mediante **n8n** y contenedorización con **Docker**.
 ---
 
-## 📁 Proyectos Destacados (Pharma Focus)
+##  Proyectos Destacados (Pharma Focus)
 
 ### 1. Clinical Data Pipeline: Pharmaverse Simulation
 *   **Enfoque:** Implementación de un flujo completo de datos clínicos siguiendo directrices de la industria farmacéutica.
@@ -26,15 +26,15 @@ Profesional de la salud con experiencia en el sector público (SERMAS) y formaci
 
 ---
 
-## 🎓 Roadmap 2026-2027
+##  Roadmap 2026-2027
 Actualmente expandiendo mis competencias en:
 * **Estadística Aplicada a las ciencias de la salud**
 * **Ensayos clínicos e industria farmacéutica** 
 
 ---
 
-## 📫 Contacto
-📧 **miguelvicentemeso@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/miguelvime/) | 💻 [GitHub](https://github.com/miguelvime)
+##  Contacto
+ **miguelvicentemeso@gmail.com**  
+ [LinkedIn](https://www.linkedin.com/in/miguelvime/) |  [GitHub](https://github.com/miguelvime)
 
 miguelvicentemeso@gmail.com
